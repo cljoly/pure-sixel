@@ -1,5 +1,7 @@
 # Pure Rust library to encode images as [Sixel][sixel]
 
+![GitHub](https://img.shields.io/github/license/cljoly/pure-sixel?color=%23008033)
+
 This is currently in development.
 
 ## License
