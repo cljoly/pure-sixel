@@ -1,0 +1,9 @@
+[package]
+name = "pure-sixel"
+version = "0.1.0"
+edition = "2021"
+description = "Pure Rust [sixel](https://en.wikipedia.org/wiki/Sixel) encoder"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
